@@ -3,7 +3,7 @@
 * **Location:** <a href="https://www.google.com/maps/place/Redding,+CA">Redding, CA</a>
 * **Job:** Student
 
-I'm a Computer Science student at Sacramento State University pursuing my bachelor's degree. I graduate in May 2021. I'm eager to learn and develop my skills in programming/technology and look forward to solving new and challenging problems.
+I recently graduated from Sacramento State University with my bachelor's in Computer Science (May 2021). I'm eager to learn and develop my existing skills in programming and technology by solving new and challenging problems.
 
 Please feel free to check out my personal website <a href="https://warthog710.github.io/">here</a>.
 
