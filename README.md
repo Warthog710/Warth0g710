@@ -22,4 +22,5 @@ Please feel free to check out my personal website <a href="https://warthog710.gi
   * Space Force Commander is an Android tower defense game. It features 3 levels, 3 tower types, and 3 enemy types. It was created for my course in Object-Oriented Computer Graphics and was co-developed with <a href="https://github.com/LoganHollmer">Logan Hollmer</a>.
 
 ## Random
-* I love building computers and finding ways to automate daily tasks!
+* I love building computers and finding ways to automate daily tasks.
+* My favorite video games are MMORPG's. If I'm not coding you'll probably find me exploring a new world or grinding towards a virtual goal.
