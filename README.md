@@ -1,7 +1,7 @@
 ## About Me
 * **Name:** Quinn Roemer
 * **Location:** <a href="https://www.google.com/maps/place/Redding,+CA">Redding, CA</a>
-* **Job:** Student
+* **Job:** Computer Engineer
 
 I recently graduated from Sacramento State University with my bachelor's in Computer Science (May 2021). I'm eager to learn and develop my existing skills in programming and technology by solving new and challenging problems.
 
